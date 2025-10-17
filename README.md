@@ -26,3 +26,12 @@ It reads, categorizes, and summarizes your transactions to help visualize spendi
 ```bash
 javac src/BankTransactionAnalyzer.java
 java -cp src BankTransactionAnalyzer sample_data/transactions.csv
+
+---
+
+## Example Output
+Based on my made up sample data:
+Monthly:
+![Sentiment Plot](screenshots/monthly.png)
+Summary
+![Sentiment Plot](screenshots/summary.png)

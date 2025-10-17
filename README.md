@@ -20,7 +20,7 @@ It reads, categorizes, and summarizes your transactions to help visualize spendi
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 ### Compile and run
 ```bash

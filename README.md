@@ -20,18 +20,18 @@ It reads, categorizes, and summarizes your transactions to help visualize spendi
 
 ---
 
-## How to Run
-
-### Compile and run
-```bash
-javac src/BankTransactionAnalyzer.java
-java -cp src BankTransactionAnalyzer sample_data/transactions.csv
-
----
-
 ## Example Output
 Based on my made up sample data:
 Monthly:
 ![Monthly](screenshots/monthly.png)
 Summary
 ![Summary](screenshots/summary.png)
+
+---
+
+## How to Run
+
+### Compile and run
+```bash
+javac src/BankTransactionAnalyzer.java
+java -cp src BankTransactionAnalyzer sample_data/transactions.csv
